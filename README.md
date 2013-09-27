@@ -4,9 +4,7 @@ My Alfred Twerkflows
 
 ## How2use?
 
-Just git clone this repo, and you should be able to just double click to import.
-Alternatively, you can download individual twerkflows by clicking "view raw" in
-GitHub.
+You can download individual twerkflows [here](https://github.com/fly/twerkflows/releases).
 
 ### Archlinux.org Workflow
 
